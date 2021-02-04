@@ -1,0 +1,97 @@
+body { 
+    background: url(images/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(119, 249, 246);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    color: rgb(35, 45, 40);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.main{
+    display: block;
+}
+
+.section {
+    font-size: 1.25rem;
+    border: 2px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    width: 40%;
+    box-shadow: 10px 8px 10px #888888;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+.section h1{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.description h3{
+    color:rgb(5, 34, 34);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.description textarea{
+    font-size: small;
+    border-radius: 5px;
+    border-style: hidden;
+    background-color: rgb(221, 225, 232);
+}
+
+.info{
+    border-radius: 5px;
+    background-color: rgb(143, 220, 228);
+    margin: 2%;
+    opacity: 0.8;
+}
+
+.exercise_info{
+    font-size: 15px;
+}
+
+.info h3{
+    color:rgb(9, 28, 36);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ul_exercise{
+    list-style-type: none;
+    text-align: center;
+}
+
+.ul_exercise li{
+    display: block;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+#first{
+    margin-right: 1%;
+}
+
+#second{
+    margin-left: 1%;
+}
