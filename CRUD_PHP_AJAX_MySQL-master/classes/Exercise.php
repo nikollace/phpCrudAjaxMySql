@@ -1,4 +1,3 @@
-Nikola Đorđević, [04.02.21 22:30]
 <?php
 
 require_once 'classes/Database.php'; // Pozivanje fajla gde je Database
