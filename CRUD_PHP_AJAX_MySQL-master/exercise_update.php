@@ -1,4 +1,3 @@
-Nikola Đorđević, [04.02.21 22:36]
 <?php
 require_once 'classes/Exercise.php'; // Pozivanje fajla gde je Exercise
 

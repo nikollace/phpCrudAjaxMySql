@@ -1,4 +1,3 @@
-Nikola Đorđević, [04.02.21 22:37]
 <?php
 
 require_once 'functions.php';
